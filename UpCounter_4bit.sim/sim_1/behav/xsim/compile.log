@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/UpCounter_4bit/UpCounter_4bit.srcs/sources_1/new/UpCounter_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UpCounter_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/UpCounter_4bit/UpCounter_4bit.srcs/sim_1/new/Upcounter_Test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Upcounter_Test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/LENOVO/OneDrive/Desktop/VERILOG CODES/UpCounter_4bit/UpCounter_4bit.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
